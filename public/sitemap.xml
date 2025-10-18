@@ -1,0 +1,95 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- IMPORTANT: Remplacez "https://votre-domaine.com" par votre nom de domaine réel dans toutes les URLs ci-dessous. -->
+<url>
+  <loc>https://iptvpremuim.fr/</loc>
+  <lastmod>2024-07-23T12:00:00+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://iptvpremuim.fr/#/abonnements</loc>
+  <lastmod>2024-07-23T12:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://iptvpremuim.fr/#/chaines</loc>
+  <lastmod>2024-07-23T12:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iptvpremuim.fr/#/faq</loc>
+  <lastmod>2024-07-23T12:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iptvpremuim.fr/#/blog</loc>
+  <lastmod>2024-07-23T12:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iptvpremuim.fr/#/contact</loc>
+  <lastmod>2024-07-23T12:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iptvpremuim.fr/#/a-propos</loc>
+  <lastmod>2024-07-23T12:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://iptvpremuim.fr/#/blog?post=abonnement-iptv-france-guide-premium</loc>
+  <lastmod>2024-07-23T12:00:00+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://iptvpremuim.fr/#/blog?post=iptv-premium-sport-direct-france</loc>
+  <lastmod>2024-07-23T12:00:00+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://iptvpremuim.fr/#/blog?post=legalite-iptv-france</loc>
+  <lastmod>2024-07-23T12:00:00+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://iptvpremuim.fr/#/blog?post=quest-ce-que-iptv</loc>
+  <lastmod>2024-07-23T12:00:00+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://iptvpremuim.fr/#/blog?post=choisir-meilleur-abonnement-iptv</loc>
+  <lastmod>2024-07-23T12:00:00+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://iptvpremuim.fr/#/blog?post=iptv-vs-streaming-traditionnel</loc>
+  <lastmod>2024-07-23T12:00:00+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://iptvpremuim.fr/#/mentions-legales</loc>
+  <lastmod>2024-07-23T12:00:00+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://iptvpremuim.fr/#/politique-de-confidentialite</loc>
+  <lastmod>2024-07-23T12:00:00+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://iptvpremuim.fr/#/conditions-generales-utilisation</loc>
+  <lastmod>2024-07-23T12:00:00+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://iptvpremuim.fr/#/politique-de-remboursement</loc>
+  <lastmod>2024-07-23T12:00:00+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+
+</urlset>

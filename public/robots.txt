@@ -1,0 +1,7 @@
+# Indique à tous les robots qu'ils peuvent explorer le site.
+User-agent: *
+Allow: /
+
+# Emplacement du plan du site (sitemap).
+# IMPORTANT: Remplacez "https://votre-domaine.com" par votre nom de domaine réel.
+Sitemap: https://iptvpremuim.fr/sitemap.xml
